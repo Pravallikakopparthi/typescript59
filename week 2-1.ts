@@ -22,8 +22,8 @@ console.log(welcome("Akanksha"));
 console.log(getCollege());
 console.log(getCollege("bhimavaram"));
 
-sendEmail("akanksha@gmail.com");
-sendEmail("akanksha@gmail.com", "Lab Submission");
+sendEmail("pravallika@gmail.com");
+sendEmail("pravallika.com", "Lab Submission");
 
 const total = totalMarks(85, 90, 88, 95);
 console.log(`Total Marks: ${total}`);
