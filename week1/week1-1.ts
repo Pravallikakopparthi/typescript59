@@ -1,4 +1,4 @@
-let studentName: string = "Akanksha";
+let studentName: string = "pravallika";
 let studentAge: number = 19;
 let isPresent: boolean = true;
 
